@@ -1,4 +1,6 @@
-# rrag_dataset
+THIS👏DOESN'T👏HAVE👏TO👏BE👏MORE👏THAT👏JUST👏KNOWLEDGE👏USE
+
+# rrrrrrrrag_dataset
 The design docs for a synthetic rag dataset with an emphasis on reasoning stages. 
 
 Create a synthetic dataset for a RAG (Retrieval-Augmented Generation) system, plan for the following abstractions and components:
